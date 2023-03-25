@@ -30,8 +30,6 @@ Hello-Microverse is an introductory project to practice my Github flow skills an
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
   <summary>Client</summary>
   <ul>
@@ -58,7 +56,7 @@ Hello-Microverse is an introductory project to practice my Github flow skills an
 It contains:
 
 - A HTML file with the text "Hello Microverse!"
-- A CSS file 
+- A CSS file
 - A gitignore and README files.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -71,8 +69,6 @@ It contains:
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -81,13 +77,13 @@ In order to run this project you need:
 
 - A browser
 - A Github account
+
 ### Setup
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-
+cd my-folder
+git clone git@github.com:myaccount/my-project.git
 
 ### Install
 
@@ -114,6 +110,7 @@ No need for deployments.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
+
 👤 **Author**
 
 - GitHub: [@baezluise](https://github.com/baezluise)
@@ -150,8 +147,6 @@ I would like to thank Microverse and my code reviewer for their help.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
